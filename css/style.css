@@ -99,7 +99,7 @@ ul li.checked::before {
 
 ul li input{
 	display: none;
-	width: 86%;
+	width: calc(100% - 156px);
     vertical-align: middle;
 	margin-top: -11px;
     min-height: 40px;
